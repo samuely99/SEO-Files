@@ -1,0 +1,148 @@
+Scripts for Header:
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "HardwareStore",
+  "name": "Coastal Living Paint and Hardware",
+  "url": "https://clphp.com",
+  "image": "http://ecngx270.inmotionhosting.com/~clphpc5/bg_clphp.com/wp-content/uploads/2020/10/P1030624-1024x575-1.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "82 Lafayette Road",
+    "addressLocality": "Hampton Falls",
+    "addressRegion": "New Hampshire",
+    "postalCode": "03844",
+    "addressCountry": "United States"
+  },
+  "openingHours": "Mo, Tu, We, Th, Fr 07:30-18:00 Sa 08:00-18:00 Su 09:00-17:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "(603) 926-7777"
+  }
+}
+ </script>
+
+
+
+Scipts for Body:
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Regal Select Interior Paint",
+  "description": "Premium interior paint 100% Acrylic and zero VOC"
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Regal Select Exterior High Build Paint",
+  "description": "Regal Select Exterior High Build is a thick, high-build, 100% acrylic formula that bridges small cracks and voids in fewer coats."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Aura Interior Paint",
+  "description": "Aura Interior, with our exclusive Color LockÂ® technology, delivers the ultimate performance for brilliant, rich, and everlasting color."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Advance Interior/Exterior Paint",
+  "description": "A premium quality, waterborne alkyd paint that offers a full line of durable high-end finishes ideal for doors, trim and cabinetry."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Ben Interior Paint",
+  "description": "ben Interior is user-friendly paint for flawless results and puts premium color within reach."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Arborcoat Exterior Stain",
+  "description": "ARBORCOAT stains offer superior protection while enhancing the texture and grain of wood surfaces."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Ultra Spec 500 Interior Paint",
+  "description": "Zero-VOC Ultra Spec 500 is a professional-quality interior coating designed to meet the needs of professional painting contractors."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Super Hide Paint",
+  "description": "Super Hide Paint is a line of products specially formulated to meet the demands of the professional or cost conscious user."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Benjamin Moore",
+  "name": "Insl-X Products",
+  "description": "A long-standing leader in primers and specialty coatings for the most challenging paint projects, INSL-X provides proven solutions that work."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Eastern Propane",
+  "name": "Propane",
+  "description": "Our employees are happy to fill your tanks, rain or shine.  We can top off your tank or refill it if needed. If you need a new tank, we stock 20, 30, 40 and 100lb tanks."
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Jonathan Green",
+  "name": "Lawn Care 4 Step Program",
+  "description": "Jonathan Green Lawn Care 4 Step Program is available in 5K and 15K sizes"
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Jonathan Green",
+  "name": "Mag-I-Cal",
+  "description": "Concentrated calcium soil food with humates that rapidly raises & balances soil pH."
+}
+</script>
